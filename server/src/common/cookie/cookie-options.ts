@@ -1,5 +1,5 @@
 import { CookieOptions } from 'express';
-import {isProduction} from "../../../isProduction";
+import {isProduction} from "../../isProduction";
 
 
 const cookieBaseOptions: CookieOptions = {
